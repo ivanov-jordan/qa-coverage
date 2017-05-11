@@ -1,0 +1,6 @@
+target/
+
+# IntelliJ related ignores
+.idea/
+*.iml
+*.iws
